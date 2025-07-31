@@ -73,6 +73,6 @@ Note: R² may be low because Linear Regression is not ideal for binary classific
 
 ## ✏️ Author
 
-Built with ❤️ by **Nandhini**
+Built and documented by [nandhini1424]("https://github.com/nandhini1424")
 
 
