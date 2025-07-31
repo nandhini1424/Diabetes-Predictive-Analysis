@@ -71,7 +71,8 @@ Note: R² may be low because Linear Regression is not ideal for binary classific
 
 - Predicts: if predicted value ≥ 0.5 → person has diabetes, else → does not have diabetes
 
+## ✏️ Author
 
-
+Built with ❤️ by **Nandhini**
 
 
